@@ -1,2 +1,4 @@
 # hotel-reservation-and-billing
-Personal Project
+Personal Project by Serge Lopez
+Backend using Laravel PHP
+Frontend using React
